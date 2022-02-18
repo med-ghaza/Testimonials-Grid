@@ -1,2 +1,1 @@
-# Testimonials-Grid
-Testimonials-Grid
+# Testimonials grid section
